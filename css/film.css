@@ -1,0 +1,31 @@
+body {
+  background-color: chartreuse;
+  color: blueviolet;
+}
+.h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.minititle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.img1 {
+    width: 300px;
+    height: 200px;
+
+}
+.list1 {
+    color: blue;
+}
+.list2 {
+    color: coral;
+}

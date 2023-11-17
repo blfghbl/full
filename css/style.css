@@ -1,0 +1,60 @@
+body {
+    color: black;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+}
+.header {
+    height: 50px;
+    background-color: aquamarine;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+.list {
+    width: 95%;
+    display: flex;
+    height: 100vh;
+    justify-content: space-between;
+
+}
+.exam {
+    color: blueviolet;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: overline;
+}
+
+.img-div1 {
+width: 200px;
+height: 200px;
+margin-left: 30px;
+}
+.img-div2 {
+    width: 200px;
+    height: 200px;
+    margin-left: 180px;
+    }
+    .img-div3 {
+        width: 200px;
+        height: 200px;
+        margin-left: 180px;
+        }
+        .img-div4 {
+            width: 200px;
+            height: 200px;
+            margin-left: 100px;
+            }
+            .img-div5 {
+                width: 200px;
+                height: 200px;
+                margin-left: 75px;
+                }
+                .img-div6 {
+                    width: 200px;
+                    height: 200px;
+                    margin-left: 75px;
+                    }
